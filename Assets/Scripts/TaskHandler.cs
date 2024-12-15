@@ -140,6 +140,7 @@ public class TaskHandler : MonoBehaviour
             }
             else
             {
+                
                 _subPanel.SetActive(true);
             }
         }
